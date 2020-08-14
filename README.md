@@ -16,7 +16,7 @@ Esta página esta hospedada en **AWS** con el servicio **S3**, igualmente lo hic
 ![](https://img.shields.io/static/v1?label=designer-name&message=ch0k0&color=purple)
 ![](https://img.shields.io/static/v1?label=programmer-name&message=ch0k0&color=purple)
 ![](https://img.shields.io/static/v1?label=technologies&message=HTML/CSS/S3&color=purple)
-![](https://img.shields.io/static/v1?label=school&message=Udemy/CSS/S3&color=yellowgreen)
+![](https://img.shields.io/static/v1?label=school&message=Udemy&color=yellowgreen)
 
 ## Tecnologías utilizadas
 - **HTML** ; Maquetado de la página.
